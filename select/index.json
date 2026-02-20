@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "星",
+  "base_artist": "桜井梨穂子(CV:新谷良子)",
+  "createdAt": "2026-02-20T03:31:43.917974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "關正傑",
+      "has_synced": true,
+      "path": "select/01_星_關正傑.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Star (星)",
+      "artist": "EXO-M",
+      "has_synced": true,
+      "path": "select/02_The_Star_(星)_EXO-M.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Star (星)",
+      "artist": "EXO",
+      "has_synced": true,
+      "path": "select/03_The_Star_(星)_EXO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Star 星",
+      "artist": "Exo",
+      "has_synced": true,
+      "path": "select/04_The_Star_星_Exo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空、星、海の夜",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/05_空、星、海の夜_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "超級市場",
+      "has_synced": false,
+      "path": "select/06_星_超級市場.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "關正傑",
+      "has_synced": false,
+      "path": "select/07_星_關正傑.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "星「秀」傳說 (一夜星秀版)",
+      "artist": "鄭秀文",
+      "has_synced": false,
+      "path": "select/08_星「秀」傳說_(一夜星秀版)_鄭秀文.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "楊宗緯",
+      "has_synced": true,
+      "path": "select/09_星_楊宗緯.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "星 (Live In Hong Kong / 1982)",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/10_星_(Live_In_Hong_Kong___1982)_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "マオ from SID",
+      "has_synced": false,
+      "path": "select/11_星_マオ_from_SID.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "星 (Live In Hong Kong / 1982)",
+      "artist": "鄧麗君",
+      "has_synced": true,
+      "path": "select/12_星_(Live_In_Hong_Kong___1982)_鄧麗君.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "星 (Live In Hong Kong / 1982)",
+      "artist": "鄧麗君",
+      "has_synced": false,
+      "path": "select/13_星_(Live_In_Hong_Kong___1982)_鄧麗君.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "關正傑",
+      "has_synced": true,
+      "path": "select/14_星_關正傑.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "星",
+      "artist": "超级市场",
+      "has_synced": false,
+      "path": "select/15_星_超级市场.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星",
+      "artist": "桜井梨穂子 (新谷良子)",
+      "has_synced": false,
+      "path": "select/pl_01_星_桜井梨穂子_(新谷良子).txt"
+    }
+  ]
+}
